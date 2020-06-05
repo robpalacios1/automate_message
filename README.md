@@ -1,7 +1,7 @@
 # :atm: Automate message :atm:
 This aplication automate any message from whatsapp.
 
-## What do we need :pick
+## What do we need :pick:
 - Python3x.
   - How To install
     - $ sudo apt-get update
