@@ -18,4 +18,6 @@ This aplication automate any message from whatsapp.
   
 - After do all step above, go [APSheduler](https://apscheduler.readthedocs.io/en/stable/) click on USEGUIDE and check **interval** and it show you all examples.
 
+
+## Author :bookmark_tabs:
 Roberto Palacios [Twitter](https://twitter.com/robpalacios11) | [GitHub](https://github.com/robpalacios1)
